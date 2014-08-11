@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D58D730D19989F9200C039BC /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = D58D730C19989F9200C039BC /* Person.swift */; };
 		D5DBF7C719989BE800DE1CAA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5DBF7C619989BE800DE1CAA /* AppDelegate.swift */; };
 		D5DBF7C919989BE800DE1CAA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5DBF7C819989BE800DE1CAA /* ViewController.swift */; };
 		D5DBF7CC19989BE800DE1CAA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5DBF7CA19989BE800DE1CAA /* Main.storyboard */; };
@@ -25,6 +26,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D58D730C19989F9200C039BC /* Person.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		D5DBF7C119989BE800DE1CAA /* Class Roster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Class Roster.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5DBF7C519989BE800DE1CAA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D5DBF7C619989BE800DE1CAA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 			children = (
 				D5DBF7C619989BE800DE1CAA /* AppDelegate.swift */,
 				D5DBF7C819989BE800DE1CAA /* ViewController.swift */,
+				D58D730C19989F9200C039BC /* Person.swift */,
 				D5DBF7CA19989BE800DE1CAA /* Main.storyboard */,
 				D5DBF7CD19989BE800DE1CAA /* Images.xcassets */,
 				D5DBF7C419989BE800DE1CAA /* Supporting Files */,
@@ -208,6 +211,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D58D730D19989F9200C039BC /* Person.swift in Sources */,
 				D5DBF7C919989BE800DE1CAA /* ViewController.swift in Sources */,
 				D5DBF7C719989BE800DE1CAA /* AppDelegate.swift in Sources */,
 			);
@@ -397,6 +401,7 @@
 				D5DBF7DF19989BE800DE1CAA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D5DBF7E019989BE800DE1CAA /* Build configuration list for PBXNativeTarget "Class RosterTests" */ = {
 			isa = XCConfigurationList;
@@ -405,6 +410,7 @@
 				D5DBF7E219989BE800DE1CAA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
