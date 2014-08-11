@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EB2F7AA7-5A33-4924-8103-DC8424879BB8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Class Roster</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8546DD4767F6EBDAB76EF621906DF9EA51B9081D</key>
+		<string>https://github.com/mbrightbill/iOS-FoundationsII-Assignment2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Class Roster.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8546DD4767F6EBDAB76EF621906DF9EA51B9081D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mbrightbill/iOS-FoundationsII-Assignment2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8546DD4767F6EBDAB76EF621906DF9EA51B9081D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8546DD4767F6EBDAB76EF621906DF9EA51B9081D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Class%20Roster</string>
+		</dict>
+	</array>
+</dict>
+</plist>
