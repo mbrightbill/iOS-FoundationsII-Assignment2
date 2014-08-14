@@ -2,7 +2,7 @@
 //  Person.swift
 //  Class Roster
 //
-//  Created by Matthew Brightbill on 8/10/14.
+//  Created by Matthew Brightbill on 8/13/14.
 //  Copyright (c) 2014 Matthew Brightbill. All rights reserved.
 //
 
@@ -21,6 +21,6 @@ class Person {
     }
     
     func fullName() ->String {
-        return firstName + " " + lastName
+        return self.firstName + " " + self.lastName
     }
 }
